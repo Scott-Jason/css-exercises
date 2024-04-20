@@ -1,0 +1,20 @@
+p {
+    background-color: rgb(232, 3, 91);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#numTwo {
+    color: rgb(0,30,255);
+    font-size: 36px;
+
+}
+
+#numThree {
+    background-color: rgb(20,255,20);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.example {
+    font-size: 24px
+}
